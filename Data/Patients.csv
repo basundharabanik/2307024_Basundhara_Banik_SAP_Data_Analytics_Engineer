@@ -1,0 +1,16 @@
+patient_id,patient_name,age,gender,disease
+P001,Raj Kumar,34,Male,Diabetes
+P002,Priya Sharma,28,Female,Hypertension
+P003,Amit Singh,45,Male,Diabetes
+P004,Sunita Devi,60,Female,Arthritis
+P005,Rohan Das,22,Male,Fever
+P006,Meena Nair,38,Female,Diabetes
+P007,Vikram Patel,50,Male,Heart Disease
+P008,Anita Roy,33,Female,Hypertension
+P009,Suresh Kumar,41,Male,Asthma
+P010,Deepa Menon,29,Female,Fever
+P011,Ravi Gupta,55,Male,Diabetes
+P012,Kavita Joshi,48,Female,Arthritis
+P013,Manoj Yadav,37,Male,Hypertension
+P014,Pooja Mishra,26,Female,Asthma
+P015,Arun Verma,62,Male,Heart Disease
