@@ -1,4 +1,4 @@
-#Hospital Patient Data Analysis
+Hospital Patient Data Analysis
 
 This project analyzes hospital patient data using Python.
 
